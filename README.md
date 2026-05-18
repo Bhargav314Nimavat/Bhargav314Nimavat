@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhargav Nimavat</h1>
-<h3 align="center">B.Tech CSE Student | Flutter Developer | React Learner</h3>
+<h3 align="center">B.Tech CSE Student | Flutter Developer | MERN Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;React+Learner;Problem+Solver;Future+Full+Stack+Developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;MERN+Stack+Learner;.NET+Developer;Future+Full+Stack+Engineer&center=true&width=500&height=45">
 </p>
 
 ---
@@ -10,14 +10,14 @@
 # 🚀 About Me
 
 - 🎓 Computer Engineering Student
-- 📱 Currently learning **Flutter & React**
+- 📱 Building Flutter Applications
+- 🌐 Learning MERN Stack & .NET Development
 - 💻 Interested in:
-  - App Development
-  - Web Development
-  - UI/UX
+  - Full Stack Development
+  - Mobile App Development
+  - UI/UX Design
   - Open Source
-- 🌱 Currently building projects in Flutter
-- ⚡ Goal: Become a Full Stack Developer
+- ⚡ Goal: Become a Software Engineer
 
 ---
 
@@ -27,48 +27,54 @@
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp)
 
 ---
 
 ## Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ---
 
-## Mobile
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
+## Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+
+---
+
+## Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
 
 ---
 
-## Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+## Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhargav314Nimavat&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargav314Nimavat&theme=tokyonight" />
-</p>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
 # 🔥 Current Focus
 
 - Flutter App Development
-- React + TypeScript
-- Building Real Projects
-- Learning Backend Development
+- MERN Stack
+- TypeScript
+- .NET Backend Development
+- Building Real World Projects
 
 ---
 
