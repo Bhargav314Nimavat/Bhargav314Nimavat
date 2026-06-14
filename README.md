@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student | Flutter Developer | MERN Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;MERN+Stack+Learner;.NET+Developer;Future+Full+Stack+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Learner;.NET+Developer;Future+Full+Stack+Engineer&center=true&width=500&height=45">
 </p>
 
 ---
