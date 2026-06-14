@@ -10,7 +10,6 @@
 # 🚀 About Me
 
 - 🎓 Computer Engineering Student
-- 📱 Building Flutter Applications
 - 🌐 Learning MERN Stack & .NET Development
 - 💻 Interested in:
   - Full Stack Development
